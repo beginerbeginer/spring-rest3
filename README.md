@@ -96,4 +96,19 @@ Codeは、HTTPレスポンスステータスコードです。成功した場合
 
 
 
+## まとめ
+
+- [SpringbootでREST APIを作成する](https://qiita.com/m_masashi/items/61700164e8aaa35481b3)
+
+
+参考記事（いつもありがとうございます）
+---
+
+- [Swaggerとは](https://news.mynavi.jp/itsearch/article/devsoft/2395)
+- [5 Reasons We Use Swagger to Build and Document APIs](https://www.jobsity.com/blog/5-reasons-we-use-swagger-build-and-document-apis)
+
+参考リポジトリ
+
+- [tutorials/spring-boot-modules/spring-boot-springdoc/](https://github.com/eugenp/tutorials/tree/master/spring-boot-modules/spring-boot-springdoc)
+
 
