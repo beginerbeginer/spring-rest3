@@ -56,6 +56,13 @@ springdoc.swaggerui.enabled=false
 - @PathVariable・・・パスの値（{}の部分）を、変数に格納します。
 
 
+- @OpenAPIDefinition・・・OpenAPIの定義ができます。引数（info）を使うことで、APIの説明を記述できます。
+- @Info・・・説明（メタデータ）を記述できます。
+  - title・・・タイトル（TaskAPI）
+  - version・・・バージョン（1.0.0）
+  - description・・・説明（これは、Taskアプリケーションに関するAPIです）
+
+
 ## 他
 
 - orElseGet・・・findByIdの戻り値（の型）は、Optionalです。
